@@ -126,14 +126,14 @@ footer {
 }
 .text-align-center{
    text-align:center;
-   background-color:aqua;
+   background-color:#0F6E56;
 }
 
 
 .margin-auto > div{
    margin:auto;
    width:50%;
-   background-color:beige;
+   background-color:#085041;
    text-align:center;
 }
 /* Allows box to take up full space, ignoring padding/margin */
